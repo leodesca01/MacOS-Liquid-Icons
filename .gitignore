@@ -1,2 +1,3 @@
-/.DS_Store
-.gitignore
+# macOS metadata files
+.DS_Store
+

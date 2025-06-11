@@ -1,6 +1,6 @@
 # Liquid-Glass Icons
 
-MacOS26 **liquid glass** app icons for games running through Crossover.  
+MacOS26 **liquid glass** app icons for games running through Crossover. It will grow over time.  
 Feel free to use it or make your own variant in Apple’s **Icon Composer**.
 
 If you create something cool for games running through Crossover, a pull request is always appreciated! :star2:
