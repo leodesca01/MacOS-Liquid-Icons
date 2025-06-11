@@ -5,8 +5,8 @@ Feel free to use it, remix it, or make your own variant in Apple’s **Icon Comp
 
 ---
 
-| Preview | Variant |
-|---------|---------|
+| Preview |
+|---------|
 ![Elite_Dangerous-macOS-Default-1024x1024@2x](https://github.com/user-attachments/assets/773d19a5-331b-4d91-8231-f343378230ce)
 ![Elite_Dangerous-macOS-Dark-1024x1024@2x](https://github.com/user-attachments/assets/806d98d1-6d39-4f22-b624-2398d3f26b3c)
 ![Elite_Dangerous-macOS-ClearDark-1024x1024@2x](https://github.com/user-attachments/assets/97262db3-aef3-4a30-9bb7-37c10c713dd8)
